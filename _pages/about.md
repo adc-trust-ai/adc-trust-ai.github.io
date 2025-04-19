@@ -28,16 +28,18 @@ Selected Publications
 Work Experience
 ======
 **University of Wisconsin - Madison**
+
 Ph.D. Researcher, Machine Learning (Sep 2022 - present)
 - Doing research on tree-based methods with Professor Wei-Yin Loh, with focus on interpretability
 - End-to-end development of my TRUST algorithm (Transparent, Robust and Ultra-Sparse Trees)
-- Wrote conference paper to appear in leading peer-reviewed machine learning journal [1](https://arxiv.org/abs/2401.05535)
+- Wrote conference paper to appear in leading peer-reviewed machine learning journal [[1](https://arxiv.org/abs/2401.05535)]
 
 Graduate Teaching Assistant (Sep 2021 - present)
 - Machine Learning and Data Science courses: CS 861 (graduate), ECE 761 (graduate), STAT 340, STAT 333, STAT 240
 - Probability and Mathematical Statistics courses: STAT 610 (graduate), STAT 311
 
 **European Central Bank**
+
 Risk Analyst, Directorate Risk Management, RAN division (Aug 2018 - Aug 2019)
 - Statistical modeling of price reasonability tolerance bands
 - Automation of core financial risk control tasks
@@ -47,25 +49,31 @@ Trainee, Directorate Risk Management, RAN division (Aug 2017 - Jul 2018)
 - Executed core financial risk control tasks
 
 **Deloitte**
+
 Intern, Transaction Advisory Services (Sep 2014 - Dec 2014)
+- Forensic and M&A / due dilligence rotations
 
 
 Education
 ======
 **University of Wisconsin - Madison**
+
 Ph.D. in Statistics (Sep 2019 - present)
-- Dissertation on Trustworthy AI (TRUST, ensemble pruning [1](https://arxiv.org/abs/2401.05535))
+- Dissertation on Trustworthy AI (TRUST, ensemble pruning [[1](https://arxiv.org/abs/2401.05535))]
 - Research visit at the Institute for Mathematical Sciences, National University of Singapore (Summer 2024)
 
 **Polytechnic University of Catalonia (BarcelonaTech)**
+
 M.S. in Statistics & Operations Research (Sep 2015 - Jun 2017)
-- Thesis on quantitative financial risk management, deriving in a top peer-reviewed journal publication [2](https://www.tandfonline.com/doi/abs/10.1080/14697688.2019.1605188)
+- Thesis on quantitative financial risk management, deriving in a top peer-reviewed journal publication [[2](https://www.tandfonline.com/doi/abs/10.1080/14697688.2019.1605188)]
 
 **Carnegie Mellon University**
+
 Exchange student in the depts. of Mathematics, Computer Science and Business (Jan 2015 - May 2015)
 - Carnegie Mellon Rowing Team (Tartan Crew)
 
 **Pompeu Fabra University**
+
 B.S. in Business Economics and Bachelor of Laws (Sep 2008 - Jun 14)
 - Honors double degree program, graduating 1st within the Business + Law cohort
 
