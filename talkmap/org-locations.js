@@ -1,22 +1,47 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Double degree in Business Economics & Law (2008-2014) <br />Pompeu Fabra University; Barcelona, Spain",
+    41.370205,
+    2.134007
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "M.S. in Statistics & O.R. (2015-2017) <br />BarcelonaTech; Barcelona, Spain",
+    41.410205,
+    2.174007
+  ],  
+  [
+    "Ph.D. in Statistics (2019-now)<br />UW-Madison; Madison, WI, USA",
+    43.073051,
+    -89.401230
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Study Abroad (2015)<br />Carnegie Mellon University; Pittsburgh, PA, USA",
+    40.440624,
+    -79.995888
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Summer School, Real Analysis (2013)<br />London School of Economics and Political Science; London, UK",
+    51.50,
+    -0.12
+  ],
+  [
+    "Summer School, Deep Learning (2019)<br />Warsaw, Poland",
+    52.237049,
+    21.017532
+  ],
+  [
+    "Poster presentation (2025)<br />Conference on Parsimony and Learning; Stanford University, CA, USA",
+    37.422590,
+    -122.165413
+  ],
+  [
+    "Research Visit (2024) <br />National University of Singapore; Singapore, Singapore",
+    1.290270,
+    103.851959
+  ], 
+  [
+    "Work in Financial Risk Management (2017-2019) <br />European Central Bank; Frankfurt, Germany",
+    50.110924,
+    8.682127
   ]
 ];
