@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Albert Dorador Chalar"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Statistics | Trustworthy AI"
+  bio              : "PhD Candidate in Statistics Trustworthy AI"
   location         : "Madison, WI, USA"
-  employer         : "University of Wisconsin - Madison"
+  employer         : "UW - Madison"
   uri              : # URL
   email            : "dorador(dot)albert[at]gmail(dot)com" 
 
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/albertdorador/"
+  linkedin         : "albertdorador"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
