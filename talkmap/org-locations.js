@@ -2,12 +2,12 @@ var addressPoints = [
   [
     "Double degree in Business Economics & Law (2008-2014) <br />Pompeu Fabra University; Barcelona, Spain",
     41.370205,
-    2.134007
+    2.174007
   ],
   [
     "M.S. in Statistics & O.R. (2015-2017) <br />BarcelonaTech; Barcelona, Spain",
-    41.410205,
-    2.174007
+    41.400205,
+    2.144007
   ],  
   [
     "Ph.D. in Statistics (2019-now)<br />UW-Madison; Madison, WI, USA",
