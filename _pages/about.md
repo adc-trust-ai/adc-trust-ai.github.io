@@ -59,7 +59,7 @@ Education
 **University of Wisconsin - Madison**
 
 Ph.D. in Statistics (Sep 2019 - present)
-- Dissertation on Trustworthy AI (TRUST, ensemble pruning [[1](https://arxiv.org/abs/2401.05535))]
+- Dissertation on Trustworthy AI (TRUST, ensemble pruning [[1](https://arxiv.org/abs/2401.05535)])
 - Research visit at the Institute for Mathematical Sciences, National University of Singapore (Summer 2024)
 
 **Polytechnic University of Catalonia (BarcelonaTech)**
