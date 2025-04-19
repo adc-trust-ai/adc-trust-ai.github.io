@@ -9,6 +9,8 @@ redirect_from:
 
 I am a PhD Candidate in the [Department of Statistics at the University of Wisconsin - Madison](https://stat.wisc.edu/), ["la Caixa"](https://lacaixafoundation.org/en/) Fellow, advised by Professor [Wei-Yin Loh](https://pages.stat.wisc.edu/~loh/index.html). My focus is on trustworthy AI, and I am currently developing TRUST (Transparent, Robust and Ultra-Sparse Trees) - the most interpretable model tree algorithm ever created. Preliminary results (coming soon) show that it often matches or exceeds the accuracy of leading black-box machine learning models like Random Forests, while remaining fully explainable. My goal is simple: to provide innovative and safe AI tools that allow users in high-stakes domains to stop choosing between accuracy and interpretability - and, in doing so, make a positive impact on society.
 
+For a (literal) bird's eye view of the places where I have worked, studied or given talks, check out this [interactive map](https://adc-trust-ai.github.io/talkmap.html).
+
 Research
 ======
 Since 2022, my research has focused on trustworthy AI, first studying ensemble pruning as a way to improve both accuracy and interpretability of tree ensembles. Then I developed my own model tree algorithm (TRUST), displaying excellent accuracy coupled with unparalleled interpretability.
