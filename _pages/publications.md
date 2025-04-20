@@ -9,7 +9,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 Pre-Prints and Working Papers
 ======
-<ol>{% for post in site.publications reversed %}
+<ol reversed> {% for post in site.publications reversed %}
   {% if post.note == 'preprint' %}
     <li>{% include archive-single-publication.html %}</li>
   {% endif %}
