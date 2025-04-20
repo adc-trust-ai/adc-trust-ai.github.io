@@ -1,10 +1,10 @@
 {% include base_path %}
 
 {{ post.citation }} <br>
+<a href="{{ post.url }}" rel="permalink">[abstract]</a>
 {% if post.paperurl %}
   <a href="{{ post.paperurl }}" rel="permalink">[paper]</a>
 {% endif %}
 {% if post.preprinturl %}
   <a href="{{ post.preprinturl }}" rel="permalink">[preprint]</a>
 {% endif %}
-<a href="{{ post.url }}" rel="permalink">[more info]</a>
