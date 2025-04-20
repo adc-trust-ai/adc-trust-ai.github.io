@@ -14,9 +14,9 @@ Lastly, effective teaching must be engaging, which informs my presentation style
 
 ## University of Wisconsin-Madison (Graduate Teaching Assistant)
 
-1. ECE 761 - Mathematical Machine Learning I, with Professor Chrysos, Spring 2025 (PhD course)
+1. ECE 761 - Mathematical Machine Learning I, with Professor [Chrysos](https://grigorisg9gr.github.io/), Spring 2025 (PhD course)
 - Gave guest lectures on Maximum Likelihood Estimation and Kullback-Leibler divergence
-2. CS 861 - Mathematical Machine Learning II, with Professor Kandasamy, Fall 2024 (PhD course)
+2. CS 861 - Mathematical Machine Learning II, with Professor [Kandasamy](https://pages.cs.wisc.edu/~kandasamy/), Fall 2024 (PhD course)
 3. STAT 610 - Statistical Inference, with Professor An, Spring 2023 (Graduate course)
 - Led weakly seminars on core topics
 4. STAT 240 - Data Science Modeling, with Professor Wu, Fall 2023, Spring 2024
