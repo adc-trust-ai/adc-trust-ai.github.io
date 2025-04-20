@@ -24,3 +24,10 @@ Current version solves regression problems (variants like time series only exper
   - 2-way interaction ALE plots
   - Prediction confidence intervals
   - Out-Of-Distribution detection
+
+Below is a demo of the integrated LLM capabilities within TRUST. In the video, a user is asks Gemini what minimum changes should be made in a given data point (a target house) for the learnt model to output a prediction of a desired value (expected house price).
+
+<video controls width="640" height="360">
+  <source src="files/TRUSTxGemini.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
