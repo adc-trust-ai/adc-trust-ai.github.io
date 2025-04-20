@@ -27,4 +27,6 @@ Peer-Reviewed Publications
 
 Software
 ======
-My R packages
+3. Dorador, A. (2017). R package `analytics` (3.0), *CRAN* (formerly). >19K downloads (April 2025).
+2. Dorador, A. and Thygesen, U.H. (2016). R package `complexplus` (2.1), *CRAN*. >45K downloads (April 2025).
+1. Dorador, A. (2016). R package `powerplus` (3.1), *CRAN* (formerly). >33K downloads (April 2025).
