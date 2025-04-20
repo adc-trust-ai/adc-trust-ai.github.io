@@ -5,7 +5,7 @@ permalink: /trust/
 author_profile: true
 ---
 
-TRUST is my flagship Ph.D. project in Trustworthy AI. 
+`TRUST` is my flagship Ph.D. project in Trustworthy AI. 
 It achieves comparable accuracy to state-of-the-art machine learning algorithms - including black box models like Random Forest - while remaining fully interpretable. 
 Current version solves regression problems (variants like time series only experimentally). An extension to multiclass classification is in the horizon.
 
@@ -25,9 +25,10 @@ Current version solves regression problems (variants like time series only exper
   - Prediction confidence intervals
   - Out-Of-Distribution detection
 
-Below is a demo of the integrated LLM capabilities within TRUST. In the video, a user is asks Gemini what minimum changes should be made in a given data point (a target house) for the learnt model to output a prediction of a desired value (expected house price).
+Below is a demo of the integrated LLM capabilities within `TRUST`. The video starts by showing the call to the `.explain()` method included with the free version of the model, where a user wishes to know more about the model's prediction for a specific instance (a target house). 
+After the default output is shown, including the key features influencing the prediction and their direction, plus a final summary explanation, the user then asks Gemini a completely custom question (included in the premium version): what minimum changes should be made in the attributes of the house under consideration for the learnt model to output a predicted price of a certain value? This demonstrates the potential for actionable insights and counterfactual analysis offered by the premium LLM integration.
 
-<video controls width="640" height="360">
+<video controls width="854" height="480">
   <source src="../files/TRUSTxGemini.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
