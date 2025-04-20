@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in the [Department of Statistics at the University of Wisconsin - Madison](https://stat.wisc.edu/), ["la Caixa"](https://lacaixafoundation.org/en/) Fellow, advised by Professor [Wei-Yin Loh](https://pages.stat.wisc.edu/~loh/index.html). My focus is on trustworthy AI, and I am currently developing TRUST (Transparent, Robust and Ultra-Sparse Trees) - the most interpretable model tree algorithm ever created. Preliminary results (coming soon) show that it often matches or exceeds the accuracy of leading black-box machine learning models like Random Forests, while remaining fully explainable. My goal is simple: to provide innovative and safe AI tools that allow users in high-stakes domains to stop choosing between accuracy and interpretability - and, in doing so, make a positive impact on society.
+I am a PhD Candidate in the [Department of Statistics at the University of Wisconsin - Madison](https://stat.wisc.edu/){:target="_blank"}, ["la Caixa"](https://lacaixafoundation.org/en/){:target="_blank"} Fellow, advised by Professor [Wei-Yin Loh](https://pages.stat.wisc.edu/~loh/index.html){:target="_blank"}. My focus is on trustworthy AI, and I am currently developing TRUST (Transparent, Robust and Ultra-Sparse Trees) - the most interpretable model tree algorithm ever created. Preliminary results (coming soon) show that it often matches or exceeds the accuracy of leading black-box machine learning models like Random Forests, while remaining fully explainable. My goal is simple: to provide innovative and safe AI tools that allow users in high-stakes domains to stop choosing between accuracy and interpretability - and, in doing so, make a positive impact on society.
 
 For a (literal) bird's eye view of the places where I have worked, studied or given talks, check out this [interactive map](https://adc-trust-ai.github.io/talkmap.html).
 
@@ -21,11 +21,11 @@ Selected Publications
 
 - **Theoretical and Empirical Advances in Forest Pruning**  
   Dorador, A. *Conference on Parsimony and Learning, Proceedings of Machine Learning Research (PMLR)* (forthcoming), 2025.  
-  [preprint](https://arxiv.org/abs/2401.05535)
+  [preprint](https://arxiv.org/abs/2401.05535){:target="_blank"}
 
 - **On the efficacy of stop-loss rules in the presence of overnight gaps**  
   Arratia, A. and Dorador, A. *Quantitative Finance*, 19:11, 1857-1873, 2019.  
-  [paper](https://www.tandfonline.com/doi/abs/10.1080/14697688.2019.1605188)
+  [paper](https://www.tandfonline.com/doi/abs/10.1080/14697688.2019.1605188){:target="_blank"}
 
 Work Experience
 ======
@@ -34,7 +34,7 @@ Work Experience
 Ph.D. Researcher, Machine Learning (Sep 2022 - present)
 - Doing research on tree-based methods with Professor Wei-Yin Loh, with focus on interpretability
 - End-to-end development of my TRUST algorithm (Transparent, Robust and Ultra-Sparse Trees)
-- Wrote a conference paper to appear in leading peer-reviewed machine learning journal [[1](https://arxiv.org/abs/2401.05535)]
+- Wrote a conference paper to appear in leading peer-reviewed machine learning journal [[1](https://arxiv.org/abs/2401.05535){:target="_blank"}]
 
 Graduate Teaching Assistant (Sep 2021 - present)
 - Machine Learning and Data Science courses: CS 861 (graduate), ECE 761 (graduate), STAT 340, STAT 333, STAT 240
@@ -61,13 +61,13 @@ Education
 **University of Wisconsin - Madison**
 
 Ph.D. in Statistics (Sep 2019 - present)
-- Dissertation on Trustworthy AI (TRUST, ensemble pruning [[1](https://arxiv.org/abs/2401.05535)])
+- Dissertation on Trustworthy AI (TRUST, ensemble pruning [[1](https://arxiv.org/abs/2401.05535){:target="_blank"}])
 - Research visit at the Institute for Mathematical Sciences, National University of Singapore (Summer 2024)
 
 **Polytechnic University of Catalonia (BarcelonaTech)**
 
 M.S. in Statistics & Operations Research (Sep 2015 - Jun 2017)
-- Thesis on quantitative financial risk management, deriving in a top peer-reviewed journal publication [[2](https://www.tandfonline.com/doi/abs/10.1080/14697688.2019.1605188)]
+- Thesis on quantitative financial risk management, deriving in a top peer-reviewed journal publication [[2](https://www.tandfonline.com/doi/abs/10.1080/14697688.2019.1605188){:target="_blank"}]
 
 **Carnegie Mellon University**
 
