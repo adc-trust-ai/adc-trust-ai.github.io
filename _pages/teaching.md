@@ -5,14 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Teaching Philosophy
-======
+## Philosophy
+
 From pre-college all the way to PhD-level courses, I always strive to teach in a way that the main takeaways reveal themselves as 'obvious' or at least natural in light of previous discussion (“If you can't explain it simply, then you don't understand it well enough” - Albert Einstein).
 I seek to instill understanding, not mindless regurgitation, and for this I use plenty of simple examples and emphasize the bases of the topics under consideration: a solid foundation will get you further than you may think.
 Lastly, effective teaching must be engaging, which informs my presentation style and priorities (as resources, chiefly, time, are limited).
 
-University of Wisconsin-Madison (Graduate Teaching Assistant)
-======
+
+## University of Wisconsin-Madison (Graduate Teaching Assistant)
+
 7. ECE 761 - Mathematical Machine Learning I, with Professor Chrysos, Spring 2025 (PhD course)
 - Gave guest lectures on Maximum Likelihood Estimation (MLE) and Kullback-Leibler (KL) divergence
 6. CS 861 - Mathematical Machine Learning II, with Professor Kandasamy, Fall 2024 (PhD course)
