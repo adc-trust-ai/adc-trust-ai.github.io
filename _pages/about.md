@@ -82,4 +82,4 @@ B.S. in Business Economics and Bachelor of Laws (Sep 2008 - Jun 14)
 
 Contact
 ======
-If you would like to learn more about how my TRUST regression algorithm can help your business, feel free to reach out at trustalgorithm(dot)dev[at]gmail(dot)com. For other collaboration opportunities, please contact me at dorador(dot)albert[at]gmail(dot)com.
+If you would like to learn more about how my TRUST regression algorithm can help your business, reach out at `trustalgorithm(dot)dev[at]gmail(dot)com`. For other collaboration opportunities, please contact me at `dorador(dot)albert[at]gmail(dot)com`.
