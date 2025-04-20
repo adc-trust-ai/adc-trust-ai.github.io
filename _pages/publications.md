@@ -24,3 +24,7 @@ Peer-Reviewed Publications
     <li>{% include archive-single-publication.html %}</li>
   {% endif %}
 {% endfor %}</ol>
+
+Software
+======
+My R packages
