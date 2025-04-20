@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=zQ5_q6IAAAAJ&hl=en).
+You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=zQ5_q6IAAAAJ&hl=en){:target="_blank"}.
 
 ## Pre-Prints and Working Papers
 
@@ -29,7 +29,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 ## Software
 
-1. Dorador, A. (2017). R package `analytics` (3.0), [*CRAN*](https://cran.r-project.org/web/packages/analytics/index.html) (formerly). >19K downloads (April 2025).
-2. Dorador, A. and Thygesen, U.H. (2016). R package `complexplus` (2.1), [*CRAN*](https://cran.r-project.org/web/packages/complexplus/index.html). >45K downloads (April 2025).
-3. Dorador, A. (2016). R package `powerplus` (3.1), [*CRAN*](https://cran.r-project.org/web/packages/powerplus/index.html) (formerly). >33K downloads (April 2025).
+1. Dorador, A. (2017). R package `analytics` (3.0), [*CRAN*](https://cran.r-project.org/web/packages/analytics/index.html){:target="_blank"} (formerly). >19K downloads (April 2025).
+2. Dorador, A. and Thygesen, U.H. (2016). R package `complexplus` (2.1), [*CRAN*](https://cran.r-project.org/web/packages/complexplus/index.html){:target="_blank"}. >45K downloads (April 2025).
+3. Dorador, A. (2016). R package `powerplus` (3.1), [*CRAN*](https://cran.r-project.org/web/packages/powerplus/index.html){:target="_blank"} (formerly). >33K downloads (April 2025).
 {: reversed="reversed"}
