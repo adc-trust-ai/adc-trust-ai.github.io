@@ -41,3 +41,27 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+/* Custom styles for the logo in the masthead */
+.masthead {
+  .logo {
+    height: 40px; /* Adjust this value to your desired logo height */
+    max-height: 50px; /* Optional: Set a maximum height */
+    margin-right: 10px; /* Add some spacing between the logo and the title */
+    vertical-align: middle; /* Vertically align with text */
+  }
+
+  &__menu-item--lg {
+    display: flex; /* Enable flexbox for this list item */
+    align-items: center; /* Vertically align items in the center */
+
+    a.site-logo {
+      display: inline-block; /* Ensure it takes up only necessary width */
+      margin-right: 10px; /* Add spacing here as well, for the link */
+    }
+
+    a.site-title {
+      /* You can add any specific styling for the title here if needed */
+    }
+  }
+}
