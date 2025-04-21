@@ -33,7 +33,7 @@ Work Experience
 
 Ph.D. Researcher, Machine Learning (Sep 2022 - present)
 - Doing research on tree-based methods with Professor Wei-Yin Loh, with focus on interpretability
-- End-to-end development of my TRUST algorithm (Transparent, Robust and Ultra-Sparse Trees)
+- End-to-end development of my `TRUST` algorithm (Transparent, Robust and Ultra-Sparse Trees)
 - Wrote a conference paper to appear in leading peer-reviewed machine learning journal [[1](https://arxiv.org/abs/2401.05535){:target="_blank"}]
 
 Graduate Teaching Assistant (Sep 2021 - present)
