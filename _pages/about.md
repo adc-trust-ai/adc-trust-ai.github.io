@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in the [Department of Statistics at the University of Wisconsin - Madison](https://stat.wisc.edu/){:target="_blank"}, ["la Caixa"](https://lacaixafoundation.org/en/){:target="_blank"} Fellow, advised by Professor [Wei-Yin Loh](https://pages.stat.wisc.edu/~loh/index.html){:target="_blank"}. My focus is on trustworthy AI, and I am currently developing TRUST (Transparent, Robust and Ultra-Sparse Trees) - the most interpretable model tree algorithm ever created. Preliminary results (coming soon) show that it often matches or exceeds the accuracy of leading black-box machine learning models like Random Forests, while remaining fully explainable. My goal is simple: to provide innovative and safe AI tools that allow users in high-stakes domains to stop choosing between accuracy and interpretability - and, in doing so, make a positive impact on society.
+I am a PhD Candidate in the [Department of Statistics at the University of Wisconsin - Madison](https://stat.wisc.edu/){:target="_blank"}, ["la Caixa"](https://lacaixafoundation.org/en/){:target="_blank"} Fellow, advised by Professor [Wei-Yin Loh](https://pages.stat.wisc.edu/~loh/index.html){:target="_blank"}. My focus is on trustworthy AI, and I am currently developing `TRUST` (Transparent, Robust and Ultra-Sparse Trees) - the most interpretable model tree algorithm ever created. Preliminary results (coming soon) show that it often matches or exceeds the accuracy of leading black-box machine learning models like Random Forests, while remaining fully explainable. My goal is simple: to provide innovative and safe AI tools that allow users in high-stakes domains to stop choosing between accuracy and interpretability - and, in doing so, make a positive impact on society.
 
 For a (literal) bird's eye view of the places where I have worked, studied or given talks, check out this [interactive map](https://adc-trust-ai.github.io/talkmap.html).
 
 Research
 ======
-Since 2022, my research has focused on trustworthy AI, first studying ensemble pruning as a way to improve both accuracy and interpretability of tree ensembles. Then I developed my own model tree algorithm (TRUST), displaying excellent accuracy coupled with unparalleled interpretability.
+Since 2022, my research has focused on trustworthy AI, first studying ensemble pruning as a way to improve both accuracy and interpretability of tree ensembles. Then I developed my own model tree algorithm (`TRUST`), displaying excellent accuracy coupled with unparalleled interpretability.
 Prior work focused on quantitative finance, spanning both risk and portfolio management e.g. stop-loss rules.
 
 Selected Publications
@@ -61,7 +61,7 @@ Education
 **University of Wisconsin - Madison**
 
 Ph.D. in Statistics (Sep 2019 - present)
-- Dissertation on Trustworthy AI (TRUST, ensemble pruning [[1](https://arxiv.org/abs/2401.05535){:target="_blank"}])
+- Dissertation on Trustworthy AI (`TRUST`, ensemble pruning [[1](https://arxiv.org/abs/2401.05535){:target="_blank"}])
 - Research visit at the Institute for Mathematical Sciences, National University of Singapore (Summer 2024)
 
 **Polytechnic University of Catalonia (BarcelonaTech)**
@@ -82,4 +82,4 @@ B.S. in Business Economics and Bachelor of Laws (Sep 2008 - Jun 14)
 
 Contact
 ======
-If you would like to learn more about how my TRUST regression algorithm can help your business, reach out at `trustalgorithm(dot)dev[at]gmail(dot)com`. For other collaboration opportunities, please contact me at `dorador(dot)albert[at]gmail(dot)com`.
+If you would like to learn more about how my `TRUST` regression algorithm can help your business, reach out at `trustalgorithm(dot)dev[at]gmail(dot)com`. For other collaboration opportunities, please contact me at `dorador(dot)albert[at]gmail(dot)com`.
