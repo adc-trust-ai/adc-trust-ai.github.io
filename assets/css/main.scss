@@ -52,8 +52,8 @@
   }
 
   &__menu-item--lg {
-    display: flex; /* Change this from inline-block to flex */
-    align-items: center; /* Vertically align items in the center */
+    display: flex !important; /* Force this to be flex */
+    align-items: center !important; /* Force vertical alignment */
     margin-right: 10px; /* Keep the right margin for spacing between menu items */
   }
 
@@ -61,6 +61,11 @@
     display: inline-block; /* Ensure it takes up only necessary width */
     margin-right: 10px; /* Add spacing here as well, for the link */
   }
+
+  a.site-title {
+    /* You can add any specific styling for the title here if needed */
+  }
+}
 
   a.site-title {
     /* You can add any specific styling for the title here if needed */
