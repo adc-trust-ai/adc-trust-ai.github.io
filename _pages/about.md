@@ -13,7 +13,7 @@ For a (literal) bird's eye view of the places where I have worked, studied or gi
 
 Research
 ======
-Since 2022, my research has focused on trustworthy AI, first studying ensemble pruning as a way to improve both accuracy and interpretability of tree ensembles. Then I developed my own model tree algorithm (`TRUST`), displaying excellent accuracy coupled with unparalleled interpretability.
+Since 2022, my research has focused on trustworthy AI, first studying ensemble pruning as a way to improve both accuracy and interpretability of tree ensembles; then I developed my own model tree algorithm (`TRUST`), displaying excellent accuracy coupled with unparalleled interpretability.
 Prior work focused on quantitative finance, spanning both risk and portfolio management e.g. stop-loss rules.
 
 Selected Publications
@@ -76,7 +76,7 @@ Exchange student in the depts. of Mathematics, Computer Science and Business (Ja
 
 **Pompeu Fabra University**
 
-B.S. in Business Economics and Bachelor of Laws (Sep 2008 - Jun 14)
+B.S. in Business Economics and Bachelor of Laws (Sep 2008 - Jun 2014)
 - Honors double degree program, graduating 1st within the Business + Law cohort
 
 
