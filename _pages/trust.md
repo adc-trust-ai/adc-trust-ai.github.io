@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 `TRUST` is my flagship Ph.D. project in Trustworthy AI. 
-It achieves comparable accuracy to state-of-the-art machine learning algorithms - including black box models like Random Forest - while remaining fully interpretable. 
+It achieves [comparable accuracy](https://adc-trust-ai.github.io/accuracy.html) to state-of-the-art machine learning algorithms - including black box models like Random Forest - while remaining fully interpretable. 
 Current version solves regression problems (variants like time series only experimentally). Extensions to multiclass classification and beta regression are in the horizon.
 
 ## Free version
