@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accuracy of TRUST vs Alternative Models </title>
+</head>
+<body>
+
+    <h1>Accuracy</h1>
+  
+
+    <p>The accuracy of TRUST relative to other machine learning models is tested in 60 datasets: 20 synthetic (15 especially designed to challenge TRUST) and 40 real-world benchmark datasets (e.g. Abalone, Boston, Diamonds, Mpg, or Wine).</p>
+    <p>The alternative models are: </p>
+    <ul>
+        <li>M5', regularized linear model trees, similar to TRUST, by Wang & Witten (University of Waikato) </li>
+        <li>Lasso, L1 regularized linear model, by Tibshirani (University of Toronto / Stanford University) </li>
+        <li>NodeHarvest, a sparse rule extractor from a tree ensemble, by Meinshausen (Oxford University / ETH Zurich) </li>
+        <li>CART, the most popular piecewise-constant tree algorithm, by Breiman, Stone, Friedman and Olshen (UC Berkeley / Stanford University) </li>
+        <li>Random Forest, the most popular tree ensemble model, by Breiman (UC Berkeley) </li>
+    </ul>
+
+    <p>The first 4 are usually regarded as interpretable models, while the 5th one is a black box. </p>
+
+    <div class="image-container">
+        <img src="images/Res_global_small.png" alt="Global accuracy results across 60 datasets" width="400">
+        <img src="images/Res_by_group_small.png" alt="Accuracy results by dataset group" width="400">
+    </div>
+
+    <div class="description">
+        <p>The first plot above shows that overall TRUST has comparable accuracy to a top-performing model like Random Forest, and tends to outperform other interpretable models.</p>
+        <p>The second plot shows a breakdown by dataset group, illustrating that TRUST is the only model that performs well under all conditions.</p>
+    </div>
+
+</body>
+</html>
