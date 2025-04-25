@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=zQ5_q6IAAAAJ&hl=en){:target="_blank"}.
 
-## Pre-Prints and Working Papers
+## Pre-Prints
 
 <ol reversed> {% for post in site.publications reversed %}
   {% if post.note == 'preprint' %}
