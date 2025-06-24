@@ -9,12 +9,12 @@ author_profile: true
 It achieves [comparable accuracy](https://adc-trust-ai.github.io/accuracy.html){:target="_blank"} to state-of-the-art machine learning algorithms - including black box models like Random Forest - while remaining fully interpretable. Scroll down for a short demo of `TRUST`.
 Current version solves regression problems (variants like time series only experimentally). Extensions to multiclass classification and beta regression are already under development and I will soon make them available as well.
 
-## Free version (launching in June 2025)
+## Free version (launching in July 2025)
 - Complete core functionality including main visualization and explainability tools
 - Explainability tools include state-of-the-art variable importance scoring and ALE plots + instance-level explanations including SHAP analysis
 - Perfect for small to medium datasets where both accuracy and interpretability are essential
 
-## Premium version (launching in August 2025)
+## Premium version (launching in September 2025)
 - All the core functionality included in the free version
 - Faster training times (can handle bigger datasets)
 - Guaranteed support
