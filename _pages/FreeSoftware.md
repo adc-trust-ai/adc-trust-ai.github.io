@@ -12,9 +12,7 @@ R package `powerplus` (3.1) [Dorador, A. (2016)]
 
 - Why: I wanted to have arbitrary row-column resolution in biplots, which relies on being able to raise a matrix to an arbitrary power.
 
-- Where: Formerly on CRAN.
-
-Perfectly working archived versions are available to download [*here*](https://cran.r-project.org/src/contrib/Archive/powerplus/){:target="_blank"} for free.
+- Where: Formerly on CRAN. Perfectly working archived versions are available to download [*here*](https://cran.r-project.org/src/contrib/Archive/powerplus/){:target="_blank"} for free.
 
 - Number of downloads as at July 10, 2025: 33,027
 
@@ -36,9 +34,7 @@ R package `analytics` (3.0) [Dorador, A. (2017)]
 
 - Why: There weren't any user-friendly functions (or any at all) to compute those quantities, which I needed for my Master thesis.
 
-- Where: Formerly on CRAN.
-
-Perfectly working archived versions are available to download [*here*](https://cran.r-project.org/src/contrib/Archive/analytics/){:target="_blank"} for free.
+- Where: Formerly on CRAN. Perfectly working archived versions are available to download [*here*](https://cran.r-project.org/src/contrib/Archive/analytics/){:target="_blank"} for free.
 
 - Number of downloads as at July 10, 2025: 19,527
 
