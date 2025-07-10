@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-R package `powerplus` (3.1), [Dorador, A. (2016)]
+R package `powerplus` (3.1) [Dorador, A. (2016)]
 
 What: Computation of matrix and scalar exponentiation -- any base, any exponent (yes, even complex)
 
@@ -19,7 +19,7 @@ Perfectly working archived versions are available to download [*here*](https://c
 Number of downloads as at July 10, 2025: 33,027
 
 
-R package `complexplus` (2.1), [Dorador, A. and Thygesen, U.H. (2016)]
+R package `complexplus` (2.1) [Dorador, A. and Thygesen, U.H. (2016)]
 
 What: Extension of several functions to the complex domain, including the matrix exponential and logarithm, and the determinant.
 
@@ -30,7 +30,7 @@ Where: Download from [*CRAN*](https://cran.r-project.org/web/packages/complexplu
 Number of downloads as at July 10, 2025: 46,548
 
 
-R package `analytics` (3.0), [Dorador, A. (2017)]
+R package `analytics` (3.0) [Dorador, A. (2017)]
 
 What: Regression Outlier Detection, Stationary Bootstrap, Testing Weak Stationarity, Missing Value Imputation, and Other Tools for Data Analysis
 
