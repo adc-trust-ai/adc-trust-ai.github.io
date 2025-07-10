@@ -10,7 +10,10 @@
 main:
   - title: "TRUST"
     url: /trust/ 
-    
+
+  - title: "Free Software"
+    url: /FreeSoftware/ 
+
   - title: "Publications"
     url: /publications/    
 
