@@ -10,7 +10,7 @@ R package `powerplus` (3.1) [Dorador, A. (2016)]
 ------
 - What: Computation of matrix and scalar exponentiation -- any base, any exponent (yes, even complex)
 
-- Why: I wanted to have arbitrary row-column resolution in biplots, which relies on being able to raise a matrix to an arbitrary power.
+- Why: I wanted to have arbitrary row/column resolution in biplots, which relies on being able to raise a matrix to an arbitrary power within the unit interval.
 
 - Where: Formerly on CRAN. Perfectly working archived versions are available to download [*here*](https://cran.r-project.org/src/contrib/Archive/powerplus/){:target="_blank"} for free.
 
