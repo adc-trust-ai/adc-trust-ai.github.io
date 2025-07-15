@@ -14,7 +14,7 @@ Current version solves regression problems (variants like time series only exper
 - Explainability tools include state-of-the-art variable importance scoring and ALE plots + instance-level explanations including SHAP analysis
 - Perfect for small to medium datasets where both accuracy and interpretability are essential
 
-## Premium version (launching in September 2025)
+## Premium version (launching in October 2025)
 - All the core functionality included in the free version
 - Faster training times (can handle bigger datasets)
 - Guaranteed support
