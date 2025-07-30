@@ -14,6 +14,7 @@ Current version solves regression problems (variants like time series only exper
 - Explainability tools include state-of-the-art variable importance scoring and ALE plots + instance-level explanations including SHAP analysis
 - Perfect for small to medium datasets where both accuracy and interpretability are essential
 - See Proprietary - Permissive Binary Only License at the bottom of this page
+- Link to [version history](https://adc-trust-ai.github.io/changelog.html){:target="_blank"} 
 
 ## Premium version (launching in October 2025)
 - All the core functionality included in the free version
