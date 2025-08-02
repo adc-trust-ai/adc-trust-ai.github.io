@@ -19,7 +19,6 @@ Current version solves regression problems (variants like time series only exper
 ## Premium version (launching in October 2025)
 - All the core functionality included in the free version
 - Faster training times (can handle bigger datasets)
-- Guaranteed support
 - Added functionality:
   - LLM integration for enhanced explainability
   - Signed (+/-) variable importance plots
