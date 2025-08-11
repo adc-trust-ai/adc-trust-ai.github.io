@@ -5,7 +5,7 @@ permalink: /publications/2025-03-06-ForestPruning
 excerpt: 
 date: 2025-03-06
 venue:
-paperurl: https://proceedings.mlr.press/v280
+paperurl: https://proceedings.mlr.press/v280/dorador25a.html
 preprinturl: https://arxiv.org/abs/2401.05535
 citation: 'Dorador, A. (2025). &quot;Theoretical and Empirical Advances in Forest Pruning.&quot; <i>Conference on Parsimony and Learning</i> PMLR 280:615-651.'
 note: 'published'
