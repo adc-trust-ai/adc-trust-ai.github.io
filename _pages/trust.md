@@ -22,9 +22,11 @@ Current version solves regression problems (variants like time series only exper
 - Added functionality:
   - LLM integration for enhanced explainability
   - Signed (+/-) variable importance plots
-  - 2-way interaction ALE plots
-  - Prediction confidence intervals
   - Out-Of-Distribution detection
+  - 2-way interaction ALE plots
+  - Automatic model mismatch detection
+  - Further sparsity
+  - Prediction confidence intervals
 
 Below is a demo of the integrated LLM capabilities within `TRUST`. The video starts by showing the call to the `.explain()` method included with the free version of the model, where a user wishes to know more about the model's prediction for a specific instance (a target house). 
 After the default output is shown, including the key features influencing the prediction and their direction, plus a final summary explanation, the user then asks Gemini a completely custom question (premium feature): what minimum changes should be made in the attributes of the given house for the model to output a cheaper predicted price instead? This demonstrates the potential for actionable insights and counterfactual analysis offered by the premium LLM integration.
