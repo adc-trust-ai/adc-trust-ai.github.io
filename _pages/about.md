@@ -13,8 +13,9 @@ For a (literal) bird's eye view of the places where I have worked, studied or gi
 
 Research
 ======
-Since 2022, my research has focused on trustworthy AI, first studying ensemble pruning as a way to improve both accuracy and interpretability of tree ensembles; then I developed my own model tree algorithm (`TRUST`), displaying excellent accuracy coupled with unparalleled interpretability.
-Prior work focused on quantitative finance, spanning both risk and portfolio management e.g. stop-loss rules.
+Since 2022, my research has focused on trustworthy AI, first studying ensemble pruning as a way to improve both accuracy and interpretability of tree ensembles; then I developed my own model tree algorithm (`TRUST`), displaying excellent accuracy coupled with unparalleled interpretability. If you'd like to learn more, check out [my preprint](https://arxiv.org/abs/2506.15791), which has been recently **accepted at the 22nd Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)**.
+
+Prior work focused on quantitative finance, spanning both risk and [portfolio management](https://arxiv.org/abs/2401.02601) e.g. [stop-loss rules](https://www.tandfonline.com/doi/abs/10.1080/14697688.2019.1605188).
 
 Selected Publications
 ======
