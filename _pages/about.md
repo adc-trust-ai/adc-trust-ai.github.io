@@ -20,8 +20,12 @@ Prior work focused on quantitative finance, spanning both risk and [portfolio ma
 Selected Publications
 ======
 
+- **TRUST: Transparent, Robust and Ultra-Sparse Trees**  
+  Dorador, A. *Pacific Rim International Conference on Artificial Intelligence (PRICAI)*, Lecture Notes in Artificial Intelligence, Springer Nature, 2025+.  
+  [preprint](https://www.arxiv.org/abs/2506.15791){:target="_blank"} 
+
 - **Theoretical and Empirical Advances in Forest Pruning**  
-  Dorador, A. *Conference on Parsimony and Learning, Proceedings of Machine Learning Research (PMLR)* (forthcoming), 2025.  
+  Dorador, A. *Conference on Parsimony and Learning*, Proceedings of Machine Learning Research (PMLR) 280:615-651, 2025.  
   [preprint](https://arxiv.org/abs/2401.05535){:target="_blank"}
 
 - **On the efficacy of stop-loss rules in the presence of overnight gaps**  
