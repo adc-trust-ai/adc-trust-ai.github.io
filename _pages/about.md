@@ -41,7 +41,7 @@ Ph.D. Researcher, Machine Learning (Sep 2022 - present)
 - End-to-end development of my `TRUST` algorithm (Transparent, Robust and Ultra-Sparse Trees)
 - Wrote a conference paper to appear in leading peer-reviewed machine learning journal [[1](https://arxiv.org/abs/2401.05535){:target="_blank"}]
 
-Graduate Teaching Assistant (Sep 2021 - present)
+Graduate Teaching Assistant (Sep 2021 - May 2025)
 - Machine Learning and Data Science courses: CS 861 (graduate), ECE 761 (graduate), STAT 340, STAT 333, STAT 240
 - Probability and Mathematical Statistics courses: STAT 610 (graduate), STAT 311
 
@@ -65,7 +65,7 @@ Education
 ======
 **University of Wisconsin - Madison**
 
-Ph.D. in Statistics (Sep 2019 - present)
+Ph.D. in Statistics (Sep 2019 - May 2025)
 - Dissertation on Trustworthy AI (`TRUST`, ensemble pruning [[1](https://arxiv.org/abs/2401.05535){:target="_blank"}])
 - Research visit at the Institute for Mathematical Sciences, National University of Singapore (Summer 2024)
 
