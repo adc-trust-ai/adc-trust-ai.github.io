@@ -38,7 +38,7 @@ After the default output is shown, including the key features influencing the pr
 </video>
 
 ### LICENSE
-Copyright (c) 2025 Albert Dorador Chalar. All rights reserved.
+Copyright © 2025 Albert Dorador Chalar. All rights reserved. TRUST™ is a trademark of Albert Dorador Chalar.
 
 Redistribution and use in binary forms, with or without modification, are permitted provided that the following condition is met:
 
