@@ -43,5 +43,10 @@ var addressPoints = [
     "Work in Financial Risk Management (2017-2019) <br />European Central Bank; Frankfurt, Germany",
     50.110924,
     8.682127
+  ],
+  [
+    "Workshop on my TRUST algorithm (2025) <br />University of Seville; Seville, Spain",
+    37.388878,
+    -5.994606
   ]
 ];
