@@ -46,7 +46,7 @@ var addressPoints = [
   ],
   [
     "Workshop on my TRUST algorithm (2025) <br />University of Seville; Seville, Spain",
-    37.37,
-    -5.99
+    37.36,
+    -5.98
   ]
 ];
