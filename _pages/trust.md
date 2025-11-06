@@ -16,7 +16,7 @@ Current version solves regression problems (variants like time series only exper
 - See Proprietary - Permissive Binary Only License at the bottom of this page
 - Link to [version history](https://adc-trust-ai.github.io/changelog.html){:target="_blank"} 
 
-## Pro version (expected launch in December 2025)
+## Pro version (expected launch in January 2026)
 - All the core functionality included in the free version
 - Faster training times (can handle bigger datasets)
 - Added functionality:
