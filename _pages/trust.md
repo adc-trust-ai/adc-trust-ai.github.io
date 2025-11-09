@@ -10,7 +10,7 @@ It achieves [comparable accuracy](https://adc-trust-ai.github.io/accuracy.html){
 Current version solves regression problems (variants like time series only experimentally). Extensions to multiclass classification and beta regression are already under development and I will soon make them available as well.
 
 ## Free version (released in July 2025)
-- Complete core functionality including main visualization and explainability tools
+- Complete core functionality including main visualization, explainability tools and prediction confidence intervals
 - Explainability tools include state-of-the-art variable importance scoring and ALE plots + instance-level explanations including SHAP analysis
 - Perfect for small to medium datasets where both accuracy and interpretability are essential
 - See Proprietary - Permissive Binary Only License at the bottom of this page
@@ -18,16 +18,19 @@ Current version solves regression problems (variants like time series only exper
 
 ## Pro version (expected launch in January 2026)
 - All the core functionality included in the free version
-- Faster training times (can handle bigger datasets)
+- No dataset size limits and faster training times
 - Added functionality:
   - LLM integration for enhanced explainability
   - Signed (+/-) variable importance plots
   - Out-Of-Distribution detection
+  - Uncertainty quantification for tree splits
+  - Convenient method to save the trained model
+  - Automatic document (e.g. pdf) generation for the automatically-generated reports
   - 2-way interaction ALE plots
   - Automatic model mismatch detection
   - Smart feature selection and engineering
-  - Further sparsity
-  - Prediction confidence intervals
+  - Leaf-conditional (more precise) prediction confidence intervals
+
 
 Below is a demo of the integrated LLM capabilities within `TRUST`. The video starts by showing the call to the `.explain()` method included with the free version of the model, where a user wishes to know more about the model's prediction for a specific instance (a target house). 
 After the default output is shown, including the key features influencing the prediction and their direction, plus a final summary explanation, the user then asks Gemini a completely custom question (premium feature): what minimum changes should be made in the attributes of the given house for the model to output a cheaper predicted price instead? This demonstrates the potential for actionable insights and counterfactual analysis offered by the premium LLM integration.
