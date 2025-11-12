@@ -16,13 +16,13 @@ Current version solves regression problems (variants like time series only exper
 - See Proprietary - Permissive Binary Only License at the bottom of this page
 - Link to [version history](https://adc-trust-ai.github.io/changelog.html){:target="_blank"} 
 
-## Pro version (expected launch in January 2026)
+## Pro version (expected launch of Gen 1 in January 2026)
 - All the core functionality included in the free version
 - No dataset size limits and faster training times
 - Added functionality:
-  - LLM integration for enhanced explainability
-  - Signed (+/-) variable importance plots
-  - Out-Of-Distribution detection
+  - LLM integration for enhanced explainability (Gen 1)
+  - Signed (+/-) variable importance plots (Gen 1)
+  - Out-Of-Distribution detection (Gen 1)
   - Uncertainty quantification for tree splits
   - Convenient method to save the trained model
   - Automatic document (e.g. pdf) generation for the automatically-generated reports
