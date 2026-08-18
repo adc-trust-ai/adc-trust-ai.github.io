@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent PhD graduate from the [Department of Statistics at the University of Wisconsin - Madison](https://stat.wisc.edu/){:target="_blank"}, ["la Caixa"](https://lacaixafoundation.org/en/){:target="_blank"} Fellow, advised by Professor [Wei-Yin Loh](https://pages.stat.wisc.edu/~loh/index.html){:target="_blank"}. My focus is on trustworthy AI, and I am currently developing `TRUST™` (Transparent, Robust and Ultra-Sparse Trees) - the most interpretable model tree algorithm ever created. [Our results](https://arxiv.org/abs/2506.15791) show that it often matches or exceeds the accuracy of leading black-box machine learning models like Random Forests, while remaining fully explainable. My goal is simple: to provide innovative and safe AI tools that allow users in high-stakes domains to stop choosing between accuracy and interpretability - and, in doing so, make a positive impact on society.
+I am a recent PhD graduate from the [Department of Statistics at the University of Wisconsin - Madison](https://stat.wisc.edu/){:target="_blank"}, ["la Caixa"](https://lacaixafoundation.org/en/){:target="_blank"} Fellow, advised by Professor [Wei-Yin Loh](https://pages.stat.wisc.edu/~loh/index.html){:target="_blank"}. My focus is on trustworthy AI, and I am currently developing `TRUST` (Transparent, Robust and Ultra-Sparse Trees) - the most interpretable model tree algorithm ever created. [Our results](https://arxiv.org/abs/2506.15791) show that it often matches or exceeds the accuracy of leading black-box machine learning models like Random Forests, while remaining fully explainable. My goal is simple: to provide innovative and safe AI tools that allow users in high-stakes domains to stop choosing between accuracy and interpretability - and, in doing so, make a positive impact on society.
 
 For a (literal) bird's eye view of some of the places where I have worked, studied or given talks, check out this [interactive map](https://adc-trust-ai.github.io/talkmap.html).
 
 Research
 ======
-Since 2022, my research has focused on trustworthy AI, first studying ensemble pruning as a way to improve both accuracy and interpretability of tree ensembles; then I developed my own model tree algorithm (`TRUST™`), displaying excellent accuracy coupled with unparalleled interpretability. If you'd like to learn more, check out [my preprint](https://arxiv.org/abs/2506.15791), presented at the 22nd Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025) and published in Springer Nature.
+Since 2022, my research has focused on trustworthy AI, first studying ensemble pruning as a way to improve both accuracy and interpretability of tree ensembles; then I developed my own model tree algorithm (`TRUST`), displaying excellent accuracy coupled with unparalleled interpretability. If you'd like to learn more, check out [my preprint](https://arxiv.org/abs/2506.15791), presented at the 22nd Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025) and published in Springer Nature.
 
 Prior work focused on quantitative finance, spanning both risk and [portfolio management](https://arxiv.org/abs/2401.02601) e.g. [stop-loss rules](https://www.tandfonline.com/doi/abs/10.1080/14697688.2019.1605188).
 
@@ -56,7 +56,7 @@ Founder and Lead Researcher (Jul 2025 - Present)
 
 Ph.D. Researcher, Machine Learning (Sep 2022 - Jun 2025)
 - Doing research on tree-based methods with Professor Wei-Yin Loh, with focus on interpretability
-- End-to-end development of my `TRUST™` algorithm (Transparent, Robust and Ultra-Sparse Trees)
+- End-to-end development of my `TRUST` algorithm (Transparent, Robust and Ultra-Sparse Trees)
 - Wrote a conference paper to appear in leading peer-reviewed machine learning journal [[1](https://arxiv.org/abs/2401.05535){:target="_blank"}]
 
 Graduate Teaching Assistant (Sep 2021 - Jun 2025)
@@ -84,7 +84,7 @@ Education
 **University of Wisconsin - Madison**
 
 Ph.D. in Statistics (2019 - 2025)
-- Dissertation on Trustworthy AI (`TRUST™`, ensemble pruning [[1](https://arxiv.org/abs/2401.05535){:target="_blank"}])
+- Dissertation on Trustworthy AI (`TRUST`, ensemble pruning [[1](https://arxiv.org/abs/2401.05535){:target="_blank"}])
 - Research visit at the Institute for Mathematical Sciences, National University of Singapore (Summer 2024)
 
 **Polytechnic University of Catalonia (BarcelonaTech)**
