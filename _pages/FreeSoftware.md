@@ -1,10 +1,13 @@
 ---
 layout: archive
-title: "Free Software"
+title: "Open-Source Software"
 permalink: /FreeSoftware/
 author_profile: true
 ---
 
+Below are the 3 R packages that I developed as a fun side project during my Master's degree.
+
+In addition, I'm happy to have contributed to **scikit-learn** ([v1.9](https://scikit-learn.org/stable/whats_new/v1.9.html){:target="_blank"}, June 2026) as well with [this](https://github.com/scikit-learn/scikit-learn/pull/33014){:target="_blank"} merged pull request. This PR resolved a conflict in initialization logic for the core elastic net optimization engine (coordinate descent path, known as enet_path).
 
 R package `powerplus` (3.1) [Dorador, A. (2016)]
 ------
@@ -14,7 +17,7 @@ R package `powerplus` (3.1) [Dorador, A. (2016)]
 
 - Where: Formerly on CRAN. Perfectly working archived versions are available to download [*here*](https://cran.r-project.org/src/contrib/Archive/powerplus/){:target="_blank"} for free.
 
-- Number of downloads as at July 10, 2025: 33,027
+- Number of downloads as at Aug 17, 2026: 33,390
 
 
 R package `complexplus` (2.1) [Dorador, A. and Thygesen, U.H. (2016)]
@@ -23,9 +26,9 @@ R package `complexplus` (2.1) [Dorador, A. and Thygesen, U.H. (2016)]
 
 - Why: Serve as general-purpose helper functions, which come in handy e.g. in matrix and scalar exponentiation (behind the scenes).
 
-- Where: Download from [*CRAN*](https://cran.r-project.org/web/packages/complexplus/index.html){:target="_blank"} for free.
+- Where: Formerly on CRAN. Perfectly working archived versions are available to download [*here*](https://cran.r-project.org/src/contrib/Archive/complexplus/){:target="_blank"} for free.
 
-- Number of downloads as at July 10, 2025: 46,548
+- Number of downloads as at Aug 17, 2026: 49,976
 
 
 R package `analytics` (3.0) [Dorador, A. (2017)]
@@ -36,5 +39,5 @@ R package `analytics` (3.0) [Dorador, A. (2017)]
 
 - Where: Formerly on CRAN. Perfectly working archived versions are available to download [*here*](https://cran.r-project.org/src/contrib/Archive/analytics/){:target="_blank"} for free.
 
-- Number of downloads as at July 10, 2025: 19,527
+- Number of downloads as at Aug 17, 2026: 19,776
 
