@@ -13,7 +13,7 @@ For a (literal) bird's eye view of the places where I have worked, studied or gi
 
 Research
 ======
-Since 2022, my research has focused on trustworthy AI, first studying ensemble pruning as a way to improve both accuracy and interpretability of tree ensembles; then I developed my own model tree algorithm (`TRUST™`), displaying excellent accuracy coupled with unparalleled interpretability. If you'd like to learn more, check out [my preprint](https://arxiv.org/abs/2506.15791), which has been recently **accepted at the 22nd Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)**.
+Since 2022, my research has focused on trustworthy AI, first studying ensemble pruning as a way to improve both accuracy and interpretability of tree ensembles; then I developed my own model tree algorithm (`TRUST™`), displaying excellent accuracy coupled with unparalleled interpretability. If you'd like to learn more, check out [my preprint](https://arxiv.org/abs/2506.15791), presented at the 22nd Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025) and published in Springer Nature.
 
 Prior work focused on quantitative finance, spanning both risk and [portfolio management](https://arxiv.org/abs/2401.02601) e.g. [stop-loss rules](https://www.tandfonline.com/doi/abs/10.1080/14697688.2019.1605188).
 
@@ -21,7 +21,7 @@ Selected Publications
 ======
 
 - **TRUST: Transparent, Robust and Ultra-Sparse Trees**  
-  Dorador, A. *Pacific Rim International Conference on Artificial Intelligence (PRICAI)*, Lecture Notes in Artificial Intelligence, Springer Nature, 2025+.  
+  Dorador, A. *Pacific Rim International Conference on Artificial Intelligence (PRICAI)*, Lecture Notes in Artificial Intelligence, Springer Nature, 2026.  
   [preprint](https://www.arxiv.org/abs/2506.15791){:target="_blank"} 
 
 - **Theoretical and Empirical Advances in Forest Pruning**  
@@ -34,6 +34,24 @@ Selected Publications
 
 Work Experience
 ======
+
+**Pompeu Fabra University**
+
+Adjunct Professor (Mar 2026 - Aug 2026)
+- Lead Lecturer, Mathematics III, B.S. Economics
+
+**Polytechnic University of Catalonia (BarcelonaTech)**
+
+Adjunct Professor (Feb 2026 - Aug 2026)
+- Instructor, Introduction to Statistics, B.S. Artificial Intelligence
+
+**Whitebox Lab**
+
+Founder and Lead Researcher (Jul 2025 - Present)
+- Full-stack development of the [`trust-free`](https://pypi.org/project/trust-free/){:target="_blank"} Python package, $>$11K downloads (Aug 2026)
+- Production of research papers tied to the development of my TRUST algorithm
+- Time-to-recovery prediction of malnourished children for the [Mundo Orenda](https://www.mundoorenda.org/){:target="_blank"} NGO 
+
 **University of Wisconsin - Madison**
 
 Ph.D. Researcher, Machine Learning (Sep 2022 - Jun 2025)
@@ -65,26 +83,20 @@ Education
 ======
 **University of Wisconsin - Madison**
 
-Ph.D. in Statistics (Sep 2019 - May 2025)
+Ph.D. in Statistics (2019 - 2025)
 - Dissertation on Trustworthy AI (`TRUST™`, ensemble pruning [[1](https://arxiv.org/abs/2401.05535){:target="_blank"}])
 - Research visit at the Institute for Mathematical Sciences, National University of Singapore (Summer 2024)
 
 **Polytechnic University of Catalonia (BarcelonaTech)**
 
-M.S. in Statistics & Operations Research (Sep 2015 - Jun 2017)
+M.S. in Statistics & Operations Research (2015 - 2017)
 - Thesis on quantitative financial risk management, deriving in a top peer-reviewed journal publication [[2](https://www.tandfonline.com/doi/abs/10.1080/14697688.2019.1605188){:target="_blank"}]
-
-**Carnegie Mellon University**
-
-Exchange student in the depts. of Mathematics, Computer Science and Business (Jan 2015 - May 2015)
-- Carnegie Mellon Rowing Team (Tartan Crew)
 
 **Pompeu Fabra University**
 
-B.S. in Business Economics and Bachelor of Laws (Sep 2008 - Jun 2014)
+B.S. in Business Economics and Bachelor of Laws (2008 - 2014)
 - Honors double degree program, graduating 1st within the Business + Law cohort
+  - **Carnegie Mellon University**
+    Exchange student in the depts. of Mathematics, Computer Science and Business (Spring Semester)
+    - Carnegie Mellon Rowing Team (Tartan Crew)
 
-
-Contact
-======
-If you would like to learn more about how my `TRUST™` regression algorithm can help your business, reach out at `trustalgorithm(dot)dev[at]gmail(dot)com`. For other collaboration opportunities, please contact me at `dorador(dot)albert[at]gmail(dot)com`.
