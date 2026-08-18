@@ -48,7 +48,7 @@ Adjunct Professor (Feb 2026 - Aug 2026)
 **Whitebox Lab**
 
 Founder and Lead Researcher (Jul 2025 - Present)
-- Full-stack development of the [`trust-free`](https://pypi.org/project/trust-free/){:target="_blank"} Python package, $>$11K downloads (Aug 2026)
+- Full-stack development of the [`trust-free`](https://pypi.org/project/trust-free/){:target="_blank"} Python package, >11K downloads (Aug 2026)
 - Production of research papers tied to the development of my TRUST algorithm
 - Time-to-recovery prediction of malnourished children for the [Mundo Orenda](https://www.mundoorenda.org/){:target="_blank"} NGO 
 
