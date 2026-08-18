@@ -96,7 +96,7 @@ M.S. in Statistics & Operations Research (2015 - 2017)
 
 B.S. in Business Economics and Bachelor of Laws (2008 - 2014)
 - Honors double degree program, graduating 1st within the Business + Law cohort
-  - **Carnegie Mellon University**
-    Exchange student in the depts. of Mathematics, Computer Science and Business (Spring Semester)
-    - Carnegie Mellon Rowing Team (Tartan Crew)
+- **Carnegie Mellon University**
+  Exchange student in the depts. of Mathematics, Computer Science and Business (Spring Semester)
+  - Carnegie Mellon Rowing Team (Tartan Crew)
 
