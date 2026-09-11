@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent PhD graduate from the [Department of Statistics at the University of Wisconsin - Madison](https://stat.wisc.edu/){:target="_blank"}, ["la Caixa"](https://lacaixafoundation.org/en/){:target="_blank"} Fellow, advised by Professor [Wei-Yin Loh](https://pages.stat.wisc.edu/~loh/index.html){:target="_blank"}. My focus is on trustworthy AI, and I am currently developing `TRUST` (Transparent, Robust and Ultra-Sparse Trees) - the most interpretable model tree algorithm ever created. [Our results](https://arxiv.org/abs/2506.15791) show that it often matches or exceeds the accuracy of leading black-box machine learning models like Random Forests, while remaining fully explainable. My goal is simple: to provide innovative and safe AI tools that allow users in high-stakes domains to stop choosing between accuracy and interpretability - and, in doing so, make a positive impact on society.
+I am a Hi! PARIS Postdoctoral Fellow leading research on intrepretable machine learning for finance. Prior to that, I earned a Ph.D. in Statistics from the [University of Wisconsin - Madison](https://stat.wisc.edu/){:target="_blank"}, as a ["la Caixa"](https://lacaixafoundation.org/en/){:target="_blank"} Fellow, advised by Professor [Wei-Yin Loh](https://pages.stat.wisc.edu/~loh/index.html){:target="_blank"}.
 
-For a (literal) bird's eye view of some of the places where I have worked, studied or given talks, check out this [interactive map](https://adc-trust-ai.github.io/talkmap.html).
+My goal is simple: to provide innovative and safe AI tools that allow users in high-stakes domains to stop choosing between accuracy and interpretability - and, in doing so, make a positive impact on society.
+
+For a (literal) bird's eye view of some of the places where I have worked, studied or given talks in, check out this [interactive map](https://adc-trust-ai.github.io/talkmap.html).
 
 Research
 ======
@@ -35,6 +37,12 @@ Selected Publications
 Work Experience
 ======
 
+**Hi! PARIS Center - AI for Society & Business**
+
+Postdoctoral Fellow (Sep 2026 - Present)
+- Leading an extensive research project on interpretable machine learning for finance
+- Additional funding from the Deloitte Chair on AI for Business Innovation
+
 **Pompeu Fabra University**
 
 Adjunct Professor (Mar 2026 - Aug 2026)
@@ -48,7 +56,7 @@ Adjunct Professor (Feb 2026 - Aug 2026)
 **Whitebox Lab**
 
 Founder and Lead Researcher (Jul 2025 - Present)
-- Full-stack development of the [`trust-free`](https://pypi.org/project/trust-free/){:target="_blank"} Python package, >11K downloads (Aug 2026)
+- Full-stack development of the [`trust-free`](https://pypi.org/project/trust-free/){:target="_blank"} Python package, >13K downloads (Sep 2026)
 - Production of research papers tied to the development of my TRUST algorithm
 - Time-to-recovery prediction of malnourished children for the [Mundo Orenda](https://www.mundoorenda.org/){:target="_blank"} NGO 
 
