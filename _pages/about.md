@@ -19,6 +19,16 @@ Since 2022, my research has focused on trustworthy AI, first studying ensemble p
 
 Prior work focused on quantitative finance, spanning both risk and [portfolio management](https://arxiv.org/abs/2401.02601) e.g. [stop-loss rules](https://www.tandfonline.com/doi/abs/10.1080/14697688.2019.1605188).
 
+Upcoming Conference Presentations
+======
+**AdaLogit: Adaptive Logistic Regression for Interpretable Credit Scoring**
+
+Plenary Session, [25e journée d'économétrie appliquée à la finance](https://economix.fr/fr/colloques-et-workshops/25eme-journee-deconometrie-developpements-recents-de-leconometrie-appliquee-a-la-finance), Paris Nanterre / CNRS, Nov 2026.
+
+Preprint available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7431058){:target="_blank"}.
+
+*AdaLogit will be introduced earlier as a guest lecture within the Algorithmic Fairness and Interpretability course in the [MS Data Science & AI for Business](https://www.hec.edu/en/master-s-programs/master-science-data-science-ai-business-x-hec), HEC Paris, Sep 2026.*
+
 Selected Publications
 ======
 
